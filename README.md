@@ -2,15 +2,11 @@
 
 Projeto em Excel com Power Query para análise exploratória dos microdados do ENEM.
 
----
-
 ## 📌 Contexto
 
 - Inspirado por um trabalho da disciplina de **Probabilidade e Estatística**  
-- Objetivo inicial: calcular **média** e **desvio padrão** dos participantes  
-- Evoluiu para um dashboard com **limpeza de dados** (remoção de ausentes) e **análises interativas**
-
----
+- Objetivo inicial: calcular **média** e **desvio padrão** dos participantes de acordo com os fatores socioeconômicos
+- Evoluiu para um dashboard com **tratamento de dados** (como a remoção de alunos ausentes) e **análises interativas** por estado selecionado
 
 ## ⚙️ Ferramentas Utilizadas
 
@@ -18,15 +14,14 @@ Projeto em Excel com Power Query para análise exploratória dos microdados do E
 - Power Query  
 - Tabelas e Gráficos Dinâmicos  
 
----
-
 ## 📁 Arquivo
 
 - Tamanho: **91 MB**  
 - Disponível no Google Drive:  
   👉 [Download do Dashboard ENEM (Excel)](https://drive.google.com/drive/folders/19JVA7N-5bC5x6KiOXQVjfBg3p1jgYA_D?usp=drive_link)
 
----
+## 🖼️ Imagem do Dashboard
+![Dashboard ENEM](final.png)
 
 ## 📊 Seções do Dashboard
 
@@ -51,13 +46,6 @@ Projeto em Excel com Power Query para análise exploratória dos microdados do E
   - Médias por:  
     - Faixa de renda familiar  
     - Quantidade de computadores em casa  
-
----
-
-## 🖼️ Imagem do Dashboard
-![Dashboard ENEM](final.png)
-
----
 
 ## ✅ Conclusão
 
